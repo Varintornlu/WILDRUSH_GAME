@@ -1,4 +1,4 @@
-# Game : WildRush
+# Game : WILDRUSH
 > 01076103 PROGRAMMING FUNDAMENTAL
 
 > Using SFML c++
